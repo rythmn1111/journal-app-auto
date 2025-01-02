@@ -12,6 +12,9 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        'nintendo-ds': ['"Nintendo DS BIOS"', 'sans-serif']
+      }
     },
   },
   plugins: [],
